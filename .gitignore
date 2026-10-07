@@ -10,8 +10,6 @@ dist/
 out/
 
 # Env
-.env
-.env.*
 !.env.example
 
 # OS
@@ -19,6 +17,6 @@ out/
 Thumbs.db
 
 # Editors
-.vscode/
 .idea/
 *.swp
+config.bat
